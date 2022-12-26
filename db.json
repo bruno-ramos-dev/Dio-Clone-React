@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bruno Ramos",
+      "email": "bruno@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Layne Staley",
+      "email": "layne@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Jerry Cantrell",
+      "email": "jerry@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": 4,
+      "name": "Sean Kinney",
+      "email": "seab@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": 5,
+      "name": "Mike Inez",
+      "email": "mike@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": 6,
+      "name": "William Duvall",
+      "email": "william@email.com",
+      "senha": "123456"
+    }
+  ]
+}
